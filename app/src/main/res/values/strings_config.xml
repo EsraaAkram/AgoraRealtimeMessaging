@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-
-    <string  translatable="false" name="agora_access_token">Add Yours</string>
-    <string  translatable="false" name="agora_app_id">Add Yours</string>
-
-
-
-</resources>
